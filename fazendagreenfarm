@@ -1,0 +1,9 @@
+echo "# fazendagreenfarm" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M principal 
+git remoto adicionar origem https://github.com/6433-lab/fazendagreenfarm.git
+ git push -u origin main
+                
+                
